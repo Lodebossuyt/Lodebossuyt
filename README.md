@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Lode Bossuyt!
+
+✨ I'm a Fullstack developer in Belgium.
+
+- 😄 My prefered way of coding: scalable and reusable.
+- 🌱 I’m currently learning: TALL-stack en typescript.
+- 💬 I'm mainly a backend developer and in love with Laravel framework.
+
+- 📫 How to reach me: lodebossuyt@hotmail.com
+
 
 <!--
 **Lodebossuyt/Lodebossuyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
