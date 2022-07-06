@@ -3,7 +3,7 @@
 ✨ I'm a Fullstack developer in Belgium.
 
 - 😄 My prefered way of coding: scalable and reusable.
-- 🌱 I’m currently learning: TALL-stack en typescript.
+- 🌱 I’m currently learning: TALL-stack and typescript.
 - 💬 I'm mainly a backend developer and in love with the Laravel framework.
 
 - 📫 How to reach me: lodebossuyt@hotmail.com
